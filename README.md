@@ -1,2 +1,3 @@
 # Kaggle
-Kaggle competitions final or almost final scripts/code
+The reporsitory for Kaggle competitions final or almost final scripts/code. 
+Only selected competitions I participated are included.
